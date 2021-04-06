@@ -1,0 +1,74 @@
+# Translation of Plugins - Rename wp-login.php - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Rename wp-login.php - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-06 22:08:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Rename wp-login.php - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://iseulde.com"
+msgstr "https://iseulde.com"
+
+#. Author of the plugin/theme
+msgid "Ella Iseulde Van Dorpe"
+msgstr "Ella Iseulde Van Dorpe"
+
+#: rename-wp-login.php:250 rename-wp-login.php:252
+msgid "Settings"
+msgstr "設定"
+
+#: rename-wp-login.php:244
+msgid "Your login page is now here: %s. Bookmark this page!"
+msgstr "あなたのログインページはここにあります: %s。このページをブックマークしてください !"
+
+#: rename-wp-login.php:226
+msgid "Network Settings"
+msgstr "ネットワーク設定"
+
+#: rename-wp-login.php:226
+msgid "To set a networkwide default, go to %s."
+msgstr "ネットワーク全体のデフォルトを設定するには、%s に行きます。"
+
+#: rename-wp-login.php:187
+msgid "Login url"
+msgstr "ログイン URL"
+
+#: rename-wp-login.php:157
+msgid "Networkwide default"
+msgstr "ネットワーク規模のデフォルト"
+
+#: rename-wp-login.php:154
+msgid "This option allows you to set a networkwide default, which can be overridden by individual sites. Simply go to to the site’s permalink settings to change the url."
+msgstr "このオプションを使用すると、個々のサイトによって上書きできるネットワーク全体のデフォルトを設定できます。サイトのパーマリンク設定にアクセスして URL を変更するだけです。"
+
+#. #-#-#-#-#  tmp-rename-wp-login.pot (Rename wp-login.php 2.5.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: rename-wp-login.php:121 rename-wp-login.php:153 rename-wp-login.php:180
+msgid "Rename wp-login.php"
+msgstr "Rename wp-login.php"
+
+#: rename-wp-login.php:121
+msgid "Please upgrade to the latest version of WordPress to activate %s."
+msgstr "%s を有効にするには、WordPress の最新バージョンにアップグレードしてください。"
+
+#. Description of the plugin/theme
+msgid "Change wp-login.php to whatever you want."
+msgstr "wp-login.php をあなたが望むものに変更してください。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/rename-wp-login/"
+msgstr "https://ja.wordpress.org/plugins/rename-wp-login/"
+
+#: rename-wp-login.php:297
+msgid "You must log in to access the admin area."
+msgstr "管理エリアにアクセスするには、ログインする必要があります。"
+
+#: rename-wp-login.php:269
+msgid "This feature is not enabled."
+msgstr "この機能は有効になっていません。"
